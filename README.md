@@ -1,5 +1,3 @@
-# TRAVELMATE
-Travel Mate is a modern travel planning web application designed to simplify trip management for users. It offers user authentication, a customizable dashboard, trip tracking.
 # Travel Mate
 
 Travel Mate is a user-friendly travel planning application that helps users manage trips, explore destinations, track their budget, and handle payments securely. This app is built with **React**, **TypeScript**, and **Tailwind CSS** for a clean, responsive interface.
